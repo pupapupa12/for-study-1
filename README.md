@@ -10,3 +10,4 @@
 - if문
 - map
 - filter
+# for-study
